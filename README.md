@@ -1,6 +1,6 @@
 # 📊 Netflix Exploratory Data Analysis (EDA)
 
-This project is submitted as **Task 2** for the **CodeAlpha Data Analytics Internship**. It involves performing detailed Exploratory Data Analysis (EDA) on Netflix's catalog dataset using Python and key data analysis libraries.
+This project involves performing detailed Exploratory Data Analysis (EDA) on Netflix's catalog dataset using Python and key data analysis libraries.
 
 ---
 
